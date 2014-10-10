@@ -1,0 +1,372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"boxie",
+				"boxie-2"
+			],
+			[
+				"che",
+				"chemical"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pred",
+				"prediction"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"form",
+				"formModel"
+			],
+			[
+				"wid",
+				"widgetType"
+			],
+			[
+				"ra",
+				"rawData"
+			],
+			[
+				"r",
+				"rawData"
+			],
+			[
+				"cons",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "about-me.html",
+			"settings":
+			{
+				"buffer_size": 4374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4242,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bobi/projects/bobi/maginapp/test/plasma/account-connections/account.spec.js",
+		"/home/bobi/projects/maginapp/plasma/account-connections/account-api.js",
+		"/home/bobi/projects/maginapp/plasma/account-connections/index.js",
+		"/home/bobi/projects/bobi/maginapp/plasma/account-connections/account-api.js",
+		"/home/bobi/projects/bobi/maginapp/plasma/account-connections/index.js",
+		"/home/bobi/projects/bobi/maginapp/context/http/actions/api/authorize.js",
+		"/home/bobi/projects/bobi/maginapp/test/imap/too_many_simultanious_connections.spec.js",
+		"/home/bobi/projects/bobi/maginapp/plasma/account-connections/emails/fetch-attachment.js",
+		"/home/bobi/projects/bobi/maginapp/plasma/account-connections/email/fetch-attachment.js",
+		"/home/bobi/projects/bobi/maginapp/plasma/account-connections/listen-emails.js",
+		"/home/bobi/projects/maginapp/plasma/cache/UpdateMailCache.js",
+		"/home/bobi/projects/maginapp/plasma/cache/MailCacheOrganel.js",
+		"/home/bobi/projects/bobi/maginapp/context/http/actions/api/emails.js",
+		"/home/bobi/projects/bobi/maginapp/plasma/cache/MailCache.js",
+		"/home/bobi/projects/bobi/maginapp/plasma/account-connections/account.js",
+		"/home/bobi/projects/maginapp/plasma/account-connections/account.js",
+		"/home/bobi/projects/hg/public/css/assets/item-list.less",
+		"/home/bobi/projects/hg/app/views/assets/index.jade",
+		"/home/bobi/projects/hg/app/controllers/dashboardController.coffee",
+		"/home/bobi/projects/common/env.json",
+		"/home/bobi/projects/hg/app/views/dashboard/_form.jade",
+		"/home/bobi/projects/hg/config/routes.coffee",
+		"/home/bobi/projects/db-utils/load-feed-data.py",
+		"/home/bobi/projects/db-utils/gen-user-widgets.py",
+		"/home/bobi/projects/db-utils/gen-app-key.py",
+		"/home/bobi/projects/db-utils/gen-feed-data.py",
+		"/home/bobi/projects/common/lib/model/widget.coffee",
+		"/home/bobi/projects/hg/public/js/dashboard/prediction-chart-widget.coffee",
+		"/home/bobi/projects/hg/public/js/dashboard/static-chart-widget.coffee",
+		"/home/bobi/projects/hg/public/js/dashboard/widget.coffee",
+		"/home/bobi/projects/hg/app/views/dashboard/widget-mixins.jade",
+		"/home/bobi/projects/hg/app/views/dashboard/show.jade",
+		"/home/bobi/projects/hg/public/css/assets/index.less",
+		"/home/bobi/projects/hg/public/js/dashboard/index.coffee",
+		"/home/bobi/projects/hg/app/controllers/accountController.coffee",
+		"/home/bobi/projects/hg/app/code/controller.coffee",
+		"/home/bobi/projects/common/lib/model/feed.coffee",
+		"/home/bobi/projects/hg/app/controllers/reportElementsController.coffee",
+		"/home/bobi/projects/hg/public/js/report_elements/render.coffee",
+		"/home/bobi/projects/common/lib/model/reportElement.coffee",
+		"/home/bobi/projects/common/lib/model/report.coffee",
+		"/home/bobi/projects/hg/app/controllers/reportsController.coffee",
+		"/home/bobi/projects/hg/public/js/reports/show.coffee",
+		"/home/bobi/projects/hg/public/js/report_elements/form.coffee",
+		"/home/bobi/projects/hg/app/views/reports/show.jade",
+		"/home/bobi/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/bobi/projects/hg/reportElementsController.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/bobi/projects/maginapp",
+			"/home/bobi/projects/hg",
+			"/home/bobi/projects/",
+			"/home/bobi/projects/hg/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"openImapConnection",
+			"setAccountData",
+			"account/connect",
+			"account/disconnect",
+			"cache/add",
+			"createAccountFromChemical",
+			"emit(\"accounts\"",
+			"getAllAccounts",
+			"disconnectAccount",
+			"'cache/remove/list'",
+			"accountsIteratorCallback",
+			"'cache/count'",
+			"addLabels",
+			"cache/remove/list",
+			"smtp_transport",
+			"improveSmtpMethod",
+			"establishConnections",
+			"createAccountFromChemical",
+			"smtp",
+			"apn/send/notification/to/one",
+			"plasma.on",
+			"\"account/connect\"",
+			".emit(\"account/connect\"",
+			"account",
+			"require(../plasma/account)",
+			"require(plasma/account)",
+			"require(./account)",
+			"require(account)",
+			"config",
+			"createAccountFromChemical",
+			"imap_read_pool_queue",
+			"apn/send/notification/to/one",
+			"fetchNewest",
+			"handleMongoSession",
+			"domain",
+			"var process",
+			"js-type-option",
+			"widgetType",
+			";",
+			"edit-widget-form",
+			"reports-page",
+			"@",
+			"timeInterval",
+			"production",
+			"getWidgetData",
+			"isValid",
+			"register",
+			"datetime",
+			"dataPoints",
+			"getLatestWidgetValuePath",
+			"getFeedData",
+			"init_graph",
+			"la",
+			"lan",
+			"language"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about-me.html",
+					"settings":
+					{
+						"buffer_size": 4374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2604,
+								2604
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1926.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2890,
+								2890
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"feedsform",
+				"hg/app/views/feeds/_form.jade"
+			],
+			[
+				"",
+				"hg/app/views/shared/forms.jade"
+			],
+			[
+				"feeormjade",
+				"hg/app/views/feeds/_form.jade"
+			],
+			[
+				"formjade",
+				"hg/app/views/shared/forms.jade"
+			],
+			[
+				"mixinjad",
+				"hg/app/views/shared/mixins.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 417.0,
+	"status_bar_visible": true
+}
